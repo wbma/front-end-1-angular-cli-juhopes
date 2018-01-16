@@ -1,0 +1,16 @@
+.container {
+
+  max-width: 60rem;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  
+}
+
+app-maincontent,
+app-sidebar {
+
+  height: 30rem;
+
+}
